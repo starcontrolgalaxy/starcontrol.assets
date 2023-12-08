@@ -1,0 +1,19 @@
+* {
+    box-sizing: border-box;
+  }
+  
+div .SolarBrowser {
+    border-radius: 10px;
+    border: 3px solid orangered;
+    height: 100vh;
+    max-height: 100vh;
+}
+
+div .SolarSearch {
+    float:left;
+    margin: 6px;
+    border-radius: 10px;
+    border: 3px solid orange;
+    width: 325px;
+    max-height: 98vh;
+}

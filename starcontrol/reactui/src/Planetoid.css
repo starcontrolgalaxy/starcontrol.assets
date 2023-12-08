@@ -1,0 +1,64 @@
+* {
+    box-sizing: border-box;
+  }
+
+div .Planetoid {
+    margin: 5px;
+    background-color: darkgray;
+    padding: 5px;
+    cursor: pointer;
+    float:left;
+    width: 99%;
+    display: block;
+}
+
+div .Planetoid:hover {
+    background-color: lightsteelblue; 
+}
+
+div .SelectedPlanetoid {
+    background-color: orange;
+
+}
+
+div .PlanetoidHeader {
+    display: block;
+    background-color: darkolivegreen;
+    padding: 3px;
+}
+
+div .HeaderLeft {
+    display:inline;
+    float: left;
+    color: white;
+}
+
+div .HeaderRight {
+    border-right: 0px;
+    text-align: right;
+    
+}
+
+div .PlanetoidDetails {
+    display: block;
+}
+
+div .DetailsLeft {
+    /* display:inline; */
+    /* float: left; */
+    display:inline;
+    vertical-align: middle;
+}
+
+div .DetailsRight {
+    float:right;
+    margin-top: 4px;
+    text-align: right;
+    vertical-align: middle;
+}
+
+.mineralSvg {
+    padding-left: 5px;
+    height: 30px;
+    width: 20px;
+}

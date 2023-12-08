@@ -1,0 +1,19 @@
+div .SolarDetails {
+    float:left;
+    margin: 6px;
+    border-radius: 10px;
+    border: 3px solid yellow;
+    width: 480px;
+}
+
+div .SolarPlanetoids {
+    float: left;
+    text-align: left;
+    border: 3px solid lawngreen;
+    margin: 5px;
+    border-radius:10px;
+    background-color: green;
+    overflow: auto;
+    height: 83vh;
+    width: 250px;
+}

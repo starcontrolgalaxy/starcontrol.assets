@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8" />
+        <title>{% block title %}STAR CONTROL{% endblock %}</title>
+        <link rel="stylesheet" type="text/css" href="{{ url_for('static', filename='site.css')}}" />
+
+        <script async src="https://unpkg.com/es-module-shims@1.6.3/dist/es-module-shims.js"></script>
+        <script type="importmap">
+            {
+                "imports": {
+                    "three": "https://unpkg.com/three@0.154.0/build/three.module.js",
+                    "three/addons/": "https://unpkg.com/three@0.154.0/examples/jsm/"
+                }
+            }
+        </script>
+
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/react/15.1.0/react.min.js"></script>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/react/15.1.0/react-dom.min.js"></script>
+        <script src="http://cdnjs.cloudflare.com/ajax/libs/react/0.13.3/JSXTransformer.js"></script> 
+        
+    </head>
+
+    <body class="body">
+        {% include "explorer.html" %}
+        <hr />
+        <div class="navbar">
+            <a href="{{ url_for('home') }}" class="navbar-brand">Home</a>
+            <a href="{{ url_for('starmap') }}" class="navbar-item">Starmap</a>
+        </div>
+        <div class="body-content">
+            {% block content %}DEFAULT CONTENT{% endblock %}
+        </div>
+    </body>
+</html>

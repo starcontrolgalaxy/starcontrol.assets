@@ -1,0 +1,2586 @@
+{
+    "Lore_1": {
+        "id": "",
+        "player_inventory_add_component": [
+            "AxonDrive"
+        ],
+        "popup_text_inventory": [
+            "Axon Drive"
+        ],
+        "player_change_ru": [],
+        "fleet_add_ship": []
+    },
+    "Lore_2": {
+        "id": "",
+        "player_inventory_add_component": [
+            "BlackHoleGun"
+        ],
+        "popup_text_inventory": [
+            "Black Hole Gun"
+        ],
+        "player_change_ru": [],
+        "fleet_add_ship": []
+    },
+    "Lore_3": {
+        "id": "",
+        "player_inventory_add_component": [
+            "LanderAirFilter0"
+        ],
+        "popup_text_inventory": [
+            "Economy Brand Toxic Filter"
+        ],
+        "player_change_ru": [],
+        "fleet_add_ship": []
+    },
+    "Lore_4": {
+        "id": "",
+        "player_inventory_add_component": [],
+        "popup_text_inventory": [
+            "\"Dan'Nath Ship\"",
+            "Fleet docking points all occupied. This ship will wait for us at the nearest starbase."
+        ],
+        "player_change_ru": [],
+        "fleet_add_ship": [
+            "ShipDannath"
+        ]
+    },
+    "Lore_5": {
+        "id": "",
+        "player_inventory_add_component": [
+            "Engine Size 3"
+        ],
+        "popup_text_inventory": [
+            "Subspace Drive"
+        ],
+        "player_change_ru": [],
+        "fleet_add_ship": []
+    },
+    "Lore_6": {
+        "id": "",
+        "player_inventory_add_component": [],
+        "popup_text_inventory": [
+            "Drenkend Ship",
+            "Fleet docking points all occupied. This ship will wait for us at the nearest starbase."
+        ],
+        "player_change_ru": [],
+        "fleet_add_ship": [
+            "ShipDrenkend"
+        ]
+    },
+    "Lore_7": {
+        "id": "",
+        "player_inventory_add_component": [
+            "AdvCrewQuarters"
+        ],
+        "popup_text_inventory": [
+            "Advanced Crew Quarters"
+        ],
+        "player_change_ru": [],
+        "fleet_add_ship": []
+    },
+    "Lore_8": {
+        "id": "",
+        "player_inventory_add_component": [],
+        "popup_text_inventory": [
+            "Drenkend Ship",
+            "Fleet docking points all occupied. This ship will wait for us at the nearest starbase."
+        ],
+        "player_change_ru": [],
+        "fleet_add_ship": [
+            "ShipDrenkend"
+        ]
+    },
+    "Lore_9": {
+        "id": "",
+        "player_inventory_add_component": [
+            "Cargo"
+        ],
+        "popup_text_inventory": [
+            "Cargo Pod"
+        ],
+        "player_change_ru": [],
+        "fleet_add_ship": []
+    },
+    "Lore_10": {
+        "id": "",
+        "player_inventory_add_component": [],
+        "popup_text_inventory": [
+            "3000 RU"
+        ],
+        "player_change_ru": [
+            "3000"
+        ],
+        "fleet_add_ship": []
+    },
+    "Lore_11": {
+        "id": "",
+        "player_inventory_add_component": [],
+        "popup_text_inventory": [
+            "1200 RU"
+        ],
+        "player_change_ru": [
+            "1200"
+        ],
+        "fleet_add_ship": []
+    },
+    "Lore_12": {
+        "id": "",
+        "player_inventory_add_component": [],
+        "popup_text_inventory": [
+            "5000 RU"
+        ],
+        "player_change_ru": [
+            "5000"
+        ],
+        "fleet_add_ship": []
+    },
+    "Lore_13": {
+        "id": "",
+        "player_inventory_add_component": [],
+        "popup_text_inventory": [
+            "4000 RU"
+        ],
+        "player_change_ru": [
+            "4000"
+        ],
+        "fleet_add_ship": []
+    },
+    "Lore_14": {
+        "id": "",
+        "player_inventory_add_component": [],
+        "popup_text_inventory": [
+            "65 Gold"
+        ],
+        "player_change_ru": [],
+        "fleet_add_ship": []
+    },
+    "Lore_15": {
+        "id": "",
+        "player_inventory_add_component": [],
+        "popup_text_inventory": [
+            "3000 RU"
+        ],
+        "player_change_ru": [
+            "3000"
+        ],
+        "fleet_add_ship": []
+    },
+    "Lore_16": {
+        "id": "",
+        "player_inventory_add_component": [],
+        "popup_text_inventory": [],
+        "player_change_ru": [],
+        "fleet_add_ship": []
+    },
+    "Lore_17": {
+        "id": "",
+        "player_inventory_add_component": [
+            "Insults"
+        ],
+        "popup_text_inventory": [
+            "Demotivator"
+        ],
+        "player_change_ru": [],
+        "fleet_add_ship": []
+    },
+    "Lore_18": {
+        "id": "",
+        "player_inventory_add_component": [
+            "SlowSlime"
+        ],
+        "popup_text_inventory": [
+            "Red Tape"
+        ],
+        "player_change_ru": [],
+        "fleet_add_ship": []
+    },
+    "Lore_19": {
+        "id": "",
+        "player_inventory_add_component": [],
+        "popup_text_inventory": [
+            "Measured Ship",
+            "Fleet docking points all occupied. This ship will wait for us at the nearest starbase."
+        ],
+        "player_change_ru": [],
+        "fleet_add_ship": [
+            "ShipMeasured"
+        ]
+    },
+    "Lore_20": {
+        "id": "",
+        "player_inventory_add_component": [],
+        "popup_text_inventory": [
+            "2000 RU"
+        ],
+        "player_change_ru": [
+            "2000"
+        ],
+        "fleet_add_ship": []
+    },
+    "Lore_21": {
+        "id": "",
+        "player_inventory_add_component": [
+            "CharbroiledFocal"
+        ],
+        "popup_text_inventory": [
+            "Focal Laser"
+        ],
+        "player_change_ru": [],
+        "fleet_add_ship": []
+    },
+    "Lore_22": {
+        "id": "",
+        "player_inventory_add_component": [
+            "FleetDeflector1"
+        ],
+        "popup_text_inventory": [
+            "Fleet Deflector"
+        ],
+        "player_change_ru": [],
+        "fleet_add_ship": []
+    },
+    "Lore_23": {
+        "id": "",
+        "player_inventory_add_component": [],
+        "popup_text_inventory": [
+            "3000 RU"
+        ],
+        "player_change_ru": [
+            "3000"
+        ],
+        "fleet_add_ship": []
+    },
+    "Lore_24": {
+        "id": "",
+        "player_inventory_add_component": [
+            "CanisterBomb"
+        ],
+        "popup_text_inventory": [
+            "Canister Mine"
+        ],
+        "player_change_ru": [],
+        "fleet_add_ship": []
+    },
+    "Lore_25": {
+        "id": "",
+        "player_inventory_add_component": [
+            "EnhancedThruster"
+        ],
+        "popup_text_inventory": [
+            "Enhanced Thruster"
+        ],
+        "player_change_ru": [],
+        "fleet_add_ship": []
+    },
+    "Lore_26": {
+        "id": "",
+        "player_inventory_add_component": [
+            "Fleetwide1"
+        ],
+        "popup_text_inventory": [
+            "Fleet Accelerator"
+        ],
+        "player_change_ru": [],
+        "fleet_add_ship": []
+    },
+    "Lore_27": {
+        "id": "",
+        "player_inventory_add_component": [],
+        "popup_text_inventory": [
+            "5000 RU"
+        ],
+        "player_change_ru": [
+            "5000"
+        ],
+        "fleet_add_ship": []
+    },
+    "Lore_28": {
+        "id": "",
+        "player_inventory_add_component": [
+            "Deflector1"
+        ],
+        "popup_text_inventory": [
+            "Deflector"
+        ],
+        "player_change_ru": [],
+        "fleet_add_ship": []
+    },
+    "Lore_29": {
+        "id": "",
+        "player_inventory_add_component": [
+            "AdvFuelTank"
+        ],
+        "popup_text_inventory": [
+            "Tokamak Power Cell"
+        ],
+        "player_change_ru": [],
+        "fleet_add_ship": []
+    },
+    "Lore_30": {
+        "id": "",
+        "player_inventory_add_component": [
+            "BeamCarver"
+        ],
+        "popup_text_inventory": [
+            "Beam Carver"
+        ],
+        "player_change_ru": [],
+        "fleet_add_ship": []
+    },
+    "Lore_31": {
+        "id": "",
+        "player_inventory_add_component": [
+            "SuperiorThruster"
+        ],
+        "popup_text_inventory": [
+            "Phoosh Dancer"
+        ],
+        "player_change_ru": [],
+        "fleet_add_ship": []
+    },
+    "Lore_32": {
+        "id": "",
+        "player_inventory_add_component": [],
+        "popup_text_inventory": [
+            "100 RU"
+        ],
+        "player_change_ru": [
+            "100"
+        ],
+        "fleet_add_ship": []
+    },
+    "Lore_33": {
+        "id": "",
+        "player_inventory_add_component": [
+            "Cargo"
+        ],
+        "popup_text_inventory": [
+            "Cargo Pod"
+        ],
+        "player_change_ru": [],
+        "fleet_add_ship": []
+    },
+    "Lore_34": {
+        "id": "",
+        "player_inventory_add_component": [
+            "FleetWeaponAmplifier1"
+        ],
+        "popup_text_inventory": [
+            "Fleet Weapon Amplifier"
+        ],
+        "player_change_ru": [],
+        "fleet_add_ship": []
+    },
+    "Lore_35": {
+        "id": "",
+        "player_inventory_add_component": [
+            "InkBlob"
+        ],
+        "popup_text_inventory": [
+            "Ink Blob"
+        ],
+        "player_change_ru": [],
+        "fleet_add_ship": []
+    },
+    "Lore_36": {
+        "id": "",
+        "player_inventory_add_component": [],
+        "popup_text_inventory": [
+            "500 RU"
+        ],
+        "player_change_ru": [
+            "500"
+        ],
+        "fleet_add_ship": []
+    },
+    "Lore_37": {
+        "id": "",
+        "player_inventory_add_component": [],
+        "popup_text_inventory": [
+            "3000 RU"
+        ],
+        "player_change_ru": [
+            "3000"
+        ],
+        "fleet_add_ship": []
+    },
+    "Lore_38": {
+        "id": "",
+        "player_inventory_add_component": [],
+        "popup_text_inventory": [
+            "5000 RU"
+        ],
+        "player_change_ru": [
+            "5000"
+        ],
+        "fleet_add_ship": []
+    },
+    "Lore_39": {
+        "id": "",
+        "player_inventory_add_component": [
+            "HyperDrive2"
+        ],
+        "popup_text_inventory": [
+            "Not So Cuddle Drive"
+        ],
+        "player_change_ru": [],
+        "fleet_add_ship": []
+    },
+    "Lore_40": {
+        "id": "",
+        "player_inventory_add_component": [
+            "LanderWindRes2"
+        ],
+        "popup_text_inventory": [
+            "Atmospheric Stabilizers Mark II"
+        ],
+        "player_change_ru": [],
+        "fleet_add_ship": []
+    },
+    "Lore_41": {
+        "id": "",
+        "player_inventory_add_component": [
+            "LanderAirFilter1"
+        ],
+        "popup_text_inventory": [
+            "Corrosion Protection"
+        ],
+        "player_change_ru": [],
+        "fleet_add_ship": []
+    },
+    "Lore_42": {
+        "id": "",
+        "player_inventory_add_component": [
+            "CannonForward"
+        ],
+        "popup_text_inventory": [
+            "Forward Cannons"
+        ],
+        "player_change_ru": [],
+        "fleet_add_ship": []
+    },
+    "Lore_43": {
+        "id": "",
+        "player_inventory_add_component": [],
+        "popup_text_inventory": [
+            "Phamysht Ship",
+            "Fleet docking points all occupied. This ship will wait for us at the nearest starbase."
+        ],
+        "player_change_ru": [],
+        "fleet_add_ship": [
+            "ShipPhamysht"
+        ]
+    },
+    "Lore_44": {
+        "id": "",
+        "player_inventory_add_component": [
+            "Charbroiled"
+        ],
+        "popup_text_inventory": [
+            "Charbroiled"
+        ],
+        "player_change_ru": [],
+        "fleet_add_ship": []
+    },
+    "Lore_45": {
+        "id": "",
+        "player_inventory_add_component": [
+            "Deflector2"
+        ],
+        "popup_text_inventory": [
+            "Deflector Mark II"
+        ],
+        "player_change_ru": [],
+        "fleet_add_ship": []
+    },
+    "Lore_46": {
+        "id": "",
+        "player_inventory_add_component": [
+            "ExtremeThruster"
+        ],
+        "popup_text_inventory": [
+            "The Sprinter"
+        ],
+        "player_change_ru": [],
+        "fleet_add_ship": []
+    },
+    "Lore_47": {
+        "id": "",
+        "player_inventory_add_component": [
+            "FleetCharger"
+        ],
+        "popup_text_inventory": [
+            "Fleet Charger"
+        ],
+        "player_change_ru": [],
+        "fleet_add_ship": []
+    },
+    "Lore_48": {
+        "id": "",
+        "player_inventory_add_component": [],
+        "popup_text_inventory": [
+            "7000 RU"
+        ],
+        "player_change_ru": [
+            "7000"
+        ],
+        "fleet_add_ship": []
+    },
+    "Lore_49": {
+        "id": "",
+        "player_inventory_add_component": [
+            "Engine Size 4"
+        ],
+        "popup_text_inventory": [
+            "Precursor Drive"
+        ],
+        "player_change_ru": [],
+        "fleet_add_ship": []
+    },
+    "Lore_50": {
+        "id": "",
+        "player_inventory_add_component": [],
+        "popup_text_inventory": [
+            "6000 RU"
+        ],
+        "player_change_ru": [
+            "6000"
+        ],
+        "fleet_add_ship": []
+    },
+    "Lore_51": {
+        "id": "",
+        "player_inventory_add_component": [],
+        "popup_text_inventory": [
+            "3000 RU"
+        ],
+        "player_change_ru": [
+            "3000"
+        ],
+        "fleet_add_ship": []
+    },
+    "Lore_52": {
+        "id": "",
+        "player_inventory_add_component": [
+            "BatteryCharger"
+        ],
+        "popup_text_inventory": [
+            "Battery Charger"
+        ],
+        "player_change_ru": [],
+        "fleet_add_ship": []
+    },
+    "Lore_53": {
+        "id": "",
+        "player_inventory_add_component": [
+            "Deflector2"
+        ],
+        "popup_text_inventory": [
+            "Deflector Mark II"
+        ],
+        "player_change_ru": [],
+        "fleet_add_ship": []
+    },
+    "Lore_54": {
+        "id": "",
+        "player_inventory_add_component": [
+            "LanderHeatShield2"
+        ],
+        "popup_text_inventory": [
+            "Heat Shield Mark II"
+        ],
+        "player_change_ru": [],
+        "fleet_add_ship": []
+    },
+    "Lore_55": {
+        "id": "",
+        "player_inventory_add_component": [
+            "DeathRay"
+        ],
+        "popup_text_inventory": [
+            "Death Ray"
+        ],
+        "player_change_ru": [],
+        "fleet_add_ship": []
+    },
+    "Lore_56": {
+        "id": "",
+        "player_inventory_add_component": [
+            "SuperiorThruster"
+        ],
+        "popup_text_inventory": [
+            "Phoosh Dancer"
+        ],
+        "player_change_ru": [],
+        "fleet_add_ship": []
+    },
+    "Lore_57": {
+        "id": "",
+        "player_inventory_add_component": [],
+        "popup_text_inventory": [
+            "4000 RU"
+        ],
+        "player_change_ru": [
+            "4000"
+        ],
+        "fleet_add_ship": []
+    },
+    "Lore_58": {
+        "id": "",
+        "player_inventory_add_component": [],
+        "popup_text_inventory": [
+            "3000 RU"
+        ],
+        "player_change_ru": [
+            "3000"
+        ],
+        "fleet_add_ship": []
+    },
+    "Lore_59": {
+        "id": "",
+        "player_inventory_add_component": [],
+        "popup_text_inventory": [
+            "2000 RU"
+        ],
+        "player_change_ru": [
+            "2000"
+        ],
+        "fleet_add_ship": []
+    },
+    "Lore_60": {
+        "id": "",
+        "player_inventory_add_component": [
+            "WeaponAmplifier1"
+        ],
+        "popup_text_inventory": [
+            "Weapon Amplifier"
+        ],
+        "player_change_ru": [],
+        "fleet_add_ship": []
+    },
+    "Lore_61": {
+        "id": "",
+        "player_inventory_add_component": [
+            "LanderGun2"
+        ],
+        "popup_text_inventory": [
+            "Lander Stun Shot"
+        ],
+        "player_change_ru": [],
+        "fleet_add_ship": []
+    },
+    "Lore_62": {
+        "id": "",
+        "player_inventory_add_component": [],
+        "popup_text_inventory": [
+            "4000 RU"
+        ],
+        "player_change_ru": [
+            "4000"
+        ],
+        "fleet_add_ship": []
+    },
+    "Lore_63": {
+        "id": "",
+        "player_inventory_add_component": [],
+        "popup_text_inventory": [
+            "Scryve Battlecruiser",
+            "Fleet docking points all occupied. This ship will wait for us at the nearest starbase."
+        ],
+        "player_change_ru": [],
+        "fleet_add_ship": [
+            "ShipScryve"
+        ]
+    },
+    "Lore_64": {
+        "id": "",
+        "player_inventory_add_component": [],
+        "popup_text_inventory": [
+            "5000 RU"
+        ],
+        "player_change_ru": [
+            "5000"
+        ],
+        "fleet_add_ship": []
+    },
+    "Lore_65": {
+        "id": "",
+        "player_inventory_add_component": [],
+        "popup_text_inventory": [
+            "10000 RU"
+        ],
+        "player_change_ru": [
+            "10000"
+        ],
+        "fleet_add_ship": []
+    },
+    "Lore_66": {
+        "id": "",
+        "player_inventory_add_component": [
+            "DockingBay1"
+        ],
+        "popup_text_inventory": [
+            "Docking Bay"
+        ],
+        "player_change_ru": [],
+        "fleet_add_ship": []
+    },
+    "Lore_67": {
+        "id": "",
+        "player_inventory_add_component": [
+            "AdvFuelTank"
+        ],
+        "popup_text_inventory": [
+            "Tokamak Power Cell"
+        ],
+        "player_change_ru": [],
+        "fleet_add_ship": []
+    },
+    "Lore_68": {
+        "id": "",
+        "player_inventory_add_component": [
+            "LanderArmor2"
+        ],
+        "popup_text_inventory": [
+            "Lander Armor Mark II"
+        ],
+        "player_change_ru": [],
+        "fleet_add_ship": []
+    },
+    "Lore_69": {
+        "id": "",
+        "player_inventory_add_component": [
+            "LanderHeatShield1"
+        ],
+        "popup_text_inventory": [
+            "Heat Shield"
+        ],
+        "player_change_ru": [],
+        "fleet_add_ship": []
+    },
+    "Lore_70": {
+        "id": "",
+        "player_inventory_add_component": [],
+        "popup_text_inventory": [
+            "1000 RU"
+        ],
+        "player_change_ru": [
+            "1000"
+        ],
+        "fleet_add_ship": []
+    },
+    "Lore_71": {
+        "id": "",
+        "player_inventory_add_component": [],
+        "popup_text_inventory": [
+            "Scryve Battlecruiser",
+            "Fleet docking points all occupied. This ship will wait for us at the nearest starbase."
+        ],
+        "player_change_ru": [],
+        "fleet_add_ship": [
+            "ShipScryve"
+        ]
+    },
+    "Lore_72": {
+        "id": "",
+        "player_inventory_add_component": [],
+        "popup_text_inventory": [
+            "3000 RU"
+        ],
+        "player_change_ru": [
+            "3000"
+        ],
+        "fleet_add_ship": []
+    },
+    "Lore_73": {
+        "id": "",
+        "player_inventory_add_component": [],
+        "popup_text_inventory": [
+            "1000 RU"
+        ],
+        "player_change_ru": [
+            "1000"
+        ],
+        "fleet_add_ship": []
+    },
+    "Lore_74": {
+        "id": "",
+        "player_inventory_add_component": [
+            "LanderWindRes1"
+        ],
+        "popup_text_inventory": [
+            "Atmospheric Stabilizers"
+        ],
+        "player_change_ru": [],
+        "fleet_add_ship": []
+    },
+    "Lore_75": {
+        "id": "",
+        "player_inventory_add_component": [
+            "FlakCannon"
+        ],
+        "popup_text_inventory": [
+            "Flak Cannon"
+        ],
+        "player_change_ru": [],
+        "fleet_add_ship": []
+    },
+    "Lore_76": {
+        "id": "",
+        "player_inventory_add_component": [
+            "CrewQuarters"
+        ],
+        "popup_text_inventory": [
+            "Crew Quarters"
+        ],
+        "player_change_ru": [],
+        "fleet_add_ship": []
+    },
+    "Lore_77": {
+        "id": "",
+        "player_inventory_add_component": [
+            "CrewQuarters"
+        ],
+        "popup_text_inventory": [
+            "Crew Quarters"
+        ],
+        "player_change_ru": [],
+        "fleet_add_ship": []
+    },
+    "Lore_78": {
+        "id": "",
+        "player_inventory_add_component": [],
+        "popup_text_inventory": [
+            "3000 RU"
+        ],
+        "player_change_ru": [
+            "3000"
+        ],
+        "fleet_add_ship": []
+    },
+    "Lore_79": {
+        "id": "",
+        "player_inventory_add_component": [
+            "AdvFuelTank"
+        ],
+        "popup_text_inventory": [
+            "Tokamak Power Cell"
+        ],
+        "player_change_ru": [],
+        "fleet_add_ship": []
+    },
+    "Lore_80": {
+        "id": "",
+        "player_inventory_add_component": [
+            "SupFuelTank"
+        ],
+        "popup_text_inventory": [
+            "Alcubierre Energy Matrix"
+        ],
+        "player_change_ru": [],
+        "fleet_add_ship": []
+    },
+    "Lore_81": {
+        "id": "",
+        "player_inventory_add_component": [],
+        "popup_text_inventory": [
+            "5000 RU"
+        ],
+        "player_change_ru": [
+            "5000"
+        ],
+        "fleet_add_ship": []
+    },
+    "Lore_82": {
+        "id": "",
+        "player_inventory_add_component": [
+            "AdvancedCargo"
+        ],
+        "popup_text_inventory": [
+            "Advanced Cargo Pod"
+        ],
+        "player_change_ru": [],
+        "fleet_add_ship": []
+    },
+    "Lore_83": {
+        "id": "",
+        "player_inventory_add_component": [],
+        "popup_text_inventory": [
+            "4000 RU"
+        ],
+        "player_change_ru": [
+            "4000"
+        ],
+        "fleet_add_ship": []
+    },
+    "Lore_84": {
+        "id": "",
+        "player_inventory_add_component": [
+            "SpeedBurst"
+        ],
+        "popup_text_inventory": [
+            "Speed Burst"
+        ],
+        "player_change_ru": [],
+        "fleet_add_ship": []
+    },
+    "Lore_85": {
+        "id": "",
+        "player_inventory_add_component": [
+            "LaserBola"
+        ],
+        "popup_text_inventory": [
+            "Laser Bola"
+        ],
+        "player_change_ru": [],
+        "fleet_add_ship": []
+    },
+    "Lore_86": {
+        "id": "",
+        "player_inventory_add_component": [
+            "CrewQuarters"
+        ],
+        "popup_text_inventory": [
+            "Crew Quarters"
+        ],
+        "player_change_ru": [],
+        "fleet_add_ship": []
+    },
+    "Lore_87": {
+        "id": "",
+        "player_inventory_add_component": [],
+        "popup_text_inventory": [
+            "3000 RU"
+        ],
+        "player_change_ru": [
+            "3000"
+        ],
+        "fleet_add_ship": []
+    },
+    "Lore_88": {
+        "id": "",
+        "player_inventory_add_component": [
+            "OvermindDrive"
+        ],
+        "popup_text_inventory": [
+            "Overdrive"
+        ],
+        "player_change_ru": [],
+        "fleet_add_ship": []
+    },
+    "Lore_89": {
+        "id": "",
+        "player_inventory_add_component": [],
+        "popup_text_inventory": [
+            "Tywom Defender",
+            "Fleet docking points all occupied. This ship will wait for us at the nearest starbase."
+        ],
+        "player_change_ru": [],
+        "fleet_add_ship": [
+            "ShipTywom"
+        ]
+    },
+    "Lore_90": {
+        "id": "",
+        "player_inventory_add_component": [],
+        "popup_text_inventory": [
+            "5000 RU"
+        ],
+        "player_change_ru": [
+            "5000"
+        ],
+        "fleet_add_ship": []
+    },
+    "Lore_91": {
+        "id": "",
+        "player_inventory_add_component": [
+            "AdvCrewQuarters"
+        ],
+        "popup_text_inventory": [
+            "Advanced Crew Quarters"
+        ],
+        "player_change_ru": [],
+        "fleet_add_ship": []
+    },
+    "Lore_92": {
+        "id": "",
+        "player_inventory_add_component": [],
+        "popup_text_inventory": [
+            "Tywom Defender",
+            "Fleet docking points all occupied. This ship will wait for us at the nearest starbase."
+        ],
+        "player_change_ru": [],
+        "fleet_add_ship": [
+            "ShipTywom"
+        ]
+    },
+    "Lore_93": {
+        "id": "",
+        "player_inventory_add_component": [],
+        "popup_text_inventory": [
+            "1000 RU"
+        ],
+        "player_change_ru": [
+            "1000"
+        ],
+        "fleet_add_ship": []
+    },
+    "Lore_94": {
+        "id": "",
+        "player_inventory_add_component": [
+            "TywomBolt"
+        ],
+        "popup_text_inventory": [
+            "Tywom Bolt"
+        ],
+        "player_change_ru": [],
+        "fleet_add_ship": []
+    },
+    "Lore_95": {
+        "id": "",
+        "player_inventory_add_component": [],
+        "popup_text_inventory": [
+            "8000 RU"
+        ],
+        "player_change_ru": [
+            "8000"
+        ],
+        "fleet_add_ship": []
+    },
+    "Lore_96": {
+        "id": "",
+        "player_inventory_add_component": [
+            "RapidLaserBlue"
+        ],
+        "popup_text_inventory": [
+            "Rapid Laser"
+        ],
+        "player_change_ru": [],
+        "fleet_add_ship": []
+    },
+    "Lore_97": {
+        "id": "",
+        "player_inventory_add_component": [],
+        "popup_text_inventory": [
+            "4000 RU"
+        ],
+        "player_change_ru": [
+            "4000"
+        ],
+        "fleet_add_ship": []
+    },
+    "Lore_98": {
+        "id": "",
+        "player_inventory_add_component": [
+            "LanderAirFilter2"
+        ],
+        "popup_text_inventory": [
+            "Corrosion Protection Mark II"
+        ],
+        "player_change_ru": [],
+        "fleet_add_ship": []
+    },
+    "Lore_99": {
+        "id": "",
+        "player_inventory_add_component": [
+            "LanderCollector1"
+        ],
+        "popup_text_inventory": [
+            "Enhanced Collector"
+        ],
+        "player_change_ru": [],
+        "fleet_add_ship": []
+    },
+    "Lore_100": {
+        "id": "",
+        "player_inventory_add_component": [],
+        "popup_text_inventory": [
+            "500 RU"
+        ],
+        "player_change_ru": [
+            "500"
+        ],
+        "fleet_add_ship": []
+    },
+    "Lore_101": {
+        "id": "",
+        "player_inventory_add_component": [],
+        "popup_text_inventory": [
+            "14000 RU"
+        ],
+        "player_change_ru": [
+            "14000"
+        ],
+        "fleet_add_ship": []
+    },
+    "Lore_102": {
+        "id": "",
+        "player_inventory_add_component": [],
+        "popup_text_inventory": [
+            "4000 RU"
+        ],
+        "player_change_ru": [
+            "4000"
+        ],
+        "fleet_add_ship": []
+    },
+    "Lore_103": {
+        "id": "",
+        "player_inventory_add_component": [
+            "Shield"
+        ],
+        "popup_text_inventory": [
+            "Ship Shield"
+        ],
+        "player_change_ru": [],
+        "fleet_add_ship": []
+    },
+    "Lore_104": {
+        "id": "",
+        "player_inventory_add_component": [],
+        "popup_text_inventory": [
+            "5000 RU"
+        ],
+        "player_change_ru": [
+            "5000"
+        ],
+        "fleet_add_ship": []
+    },
+    "Lore_105": {
+        "id": "",
+        "player_inventory_add_component": [
+            "BeamCarver"
+        ],
+        "popup_text_inventory": [
+            "Beam Carver"
+        ],
+        "player_change_ru": [],
+        "fleet_add_ship": []
+    },
+    "Lore_106": {
+        "id": "",
+        "player_inventory_add_component": [],
+        "popup_text_inventory": [
+            "3000 RU"
+        ],
+        "player_change_ru": [
+            "3000"
+        ],
+        "fleet_add_ship": []
+    },
+    "Lore_107": {
+        "id": "",
+        "player_inventory_add_component": [
+            "ExtremeThruster"
+        ],
+        "popup_text_inventory": [
+            "The Sprinter"
+        ],
+        "player_change_ru": [],
+        "fleet_add_ship": []
+    },
+    "Lore_108": {
+        "id": "",
+        "player_inventory_add_component": [],
+        "popup_text_inventory": [
+            "8000 RU"
+        ],
+        "player_change_ru": [
+            "8000"
+        ],
+        "fleet_add_ship": []
+    },
+    "Lore_109": {
+        "id": "",
+        "player_inventory_add_component": [
+            "LanderEngineUpgrade1"
+        ],
+        "popup_text_inventory": [
+            "Lander Super-Charger"
+        ],
+        "player_change_ru": [],
+        "fleet_add_ship": []
+    },
+    "Lore_110": {
+        "id": "",
+        "player_inventory_add_component": [
+            "SupFuelTank"
+        ],
+        "popup_text_inventory": [
+            "Alcubierre Energy Matrix"
+        ],
+        "player_change_ru": [],
+        "fleet_add_ship": []
+    },
+    "Lore_111": {
+        "id": "",
+        "player_inventory_add_component": [
+            "BlackHoleGun"
+        ],
+        "popup_text_inventory": [
+            "Black Hole Gun"
+        ],
+        "player_change_ru": [],
+        "fleet_add_ship": []
+    },
+    "Lore_112": {
+        "id": "",
+        "player_inventory_add_component": [
+            "GravityWave"
+        ],
+        "popup_text_inventory": [
+            "Gravity Wave"
+        ],
+        "player_change_ru": [],
+        "fleet_add_ship": []
+    },
+    "Lore_113": {
+        "id": "",
+        "player_inventory_add_component": [
+            "Engine Size 4"
+        ],
+        "popup_text_inventory": [
+            "Precursor Drive"
+        ],
+        "player_change_ru": [],
+        "fleet_add_ship": []
+    },
+    "Lore_114": {
+        "id": "",
+        "player_inventory_add_component": [
+            "Fleetwide1"
+        ],
+        "popup_text_inventory": [
+            "Fleet Accelerator"
+        ],
+        "player_change_ru": [],
+        "fleet_add_ship": []
+    },
+    "Lore_115": {
+        "id": "",
+        "player_inventory_add_component": [],
+        "popup_text_inventory": [
+            "7000 RU"
+        ],
+        "player_change_ru": [
+            "7000"
+        ],
+        "fleet_add_ship": []
+    },
+    "Lore_116": {
+        "id": "",
+        "player_inventory_add_component": [
+            "FleetDeflector1"
+        ],
+        "popup_text_inventory": [
+            "Fleet Deflector"
+        ],
+        "player_change_ru": [],
+        "fleet_add_ship": []
+    },
+    "Lore_117": {
+        "id": "",
+        "player_inventory_add_component": [],
+        "popup_text_inventory": [
+            "4000 RU"
+        ],
+        "player_change_ru": [
+            "4000"
+        ],
+        "fleet_add_ship": []
+    },
+    "Lore_118": {
+        "id": "",
+        "player_inventory_add_component": [
+            "FleetWeaponAmplifier1"
+        ],
+        "popup_text_inventory": [
+            "Fleet Weapon Amplifier"
+        ],
+        "player_change_ru": [],
+        "fleet_add_ship": []
+    },
+    "Lore_119": {
+        "id": "",
+        "player_inventory_add_component": [],
+        "popup_text_inventory": [
+            "3000 RU"
+        ],
+        "player_change_ru": [
+            "3000"
+        ],
+        "fleet_add_ship": []
+    },
+    "Lore_120": {
+        "id": "",
+        "player_inventory_add_component": [
+            "GattlingLaserBlue"
+        ],
+        "popup_text_inventory": [
+            "Gattling Laser"
+        ],
+        "player_change_ru": [],
+        "fleet_add_ship": []
+    },
+    "Lore_121": {
+        "id": "",
+        "player_inventory_add_component": [],
+        "popup_text_inventory": [
+            "7000 RU"
+        ],
+        "player_change_ru": [
+            "7000"
+        ],
+        "fleet_add_ship": []
+    },
+    "Lore_122": {
+        "id": "",
+        "player_inventory_add_component": [
+            "RearBlast"
+        ],
+        "popup_text_inventory": [
+            "Rear Blast"
+        ],
+        "player_change_ru": [],
+        "fleet_add_ship": []
+    },
+    "Lore_123": {
+        "id": "",
+        "player_inventory_add_component": [],
+        "popup_text_inventory": [
+            "5000 RU"
+        ],
+        "player_change_ru": [
+            "5000"
+        ],
+        "fleet_add_ship": []
+    },
+    "Lore_124": {
+        "id": "",
+        "player_inventory_add_component": [
+            "HeavyDumbFireMissile"
+        ],
+        "popup_text_inventory": [
+            "Heavy Dumbfire Misile"
+        ],
+        "player_change_ru": [],
+        "fleet_add_ship": []
+    },
+    "Lore_125": {
+        "id": "",
+        "player_inventory_add_component": [],
+        "popup_text_inventory": [
+            "6000 RU"
+        ],
+        "player_change_ru": [
+            "6000"
+        ],
+        "fleet_add_ship": []
+    },
+    "Lore_126": {
+        "id": "",
+        "player_inventory_add_component": [
+            "LanderArmor2"
+        ],
+        "popup_text_inventory": [
+            "Lander Armor Mark II"
+        ],
+        "player_change_ru": [],
+        "fleet_add_ship": []
+    },
+    "Lore_127": {
+        "id": "",
+        "player_inventory_add_component": [],
+        "popup_text_inventory": [
+            "8000 RU"
+        ],
+        "player_change_ru": [
+            "8000"
+        ],
+        "fleet_add_ship": []
+    },
+    "Lore_128": {
+        "id": "",
+        "player_inventory_add_component": [],
+        "popup_text_inventory": [
+            "2000 RU"
+        ],
+        "player_change_ru": [
+            "2000"
+        ],
+        "fleet_add_ship": []
+    },
+    "Lore_129": {
+        "id": "",
+        "player_inventory_add_component": [],
+        "popup_text_inventory": [
+            "3000 RU"
+        ],
+        "player_change_ru": [
+            "3000"
+        ],
+        "fleet_add_ship": []
+    },
+    "Lore_130": {
+        "id": "",
+        "player_inventory_add_component": [],
+        "popup_text_inventory": [],
+        "player_change_ru": [],
+        "fleet_add_ship": []
+    },
+    "Lore_131": {
+        "id": "",
+        "player_inventory_add_component": [],
+        "popup_text_inventory": [],
+        "player_change_ru": [],
+        "fleet_add_ship": []
+    },
+    "Lore_132": {
+        "id": "",
+        "player_inventory_add_component": [],
+        "popup_text_inventory": [],
+        "player_change_ru": [],
+        "fleet_add_ship": []
+    },
+    "Lore_133": {
+        "id": "",
+        "player_inventory_add_component": [],
+        "popup_text_inventory": [],
+        "player_change_ru": [],
+        "fleet_add_ship": []
+    },
+    "Lore_134": {
+        "id": "",
+        "player_inventory_add_component": [],
+        "popup_text_inventory": [],
+        "player_change_ru": [],
+        "fleet_add_ship": []
+    },
+    "Lore_135": {
+        "id": "",
+        "player_inventory_add_component": [],
+        "popup_text_inventory": [],
+        "player_change_ru": [],
+        "fleet_add_ship": []
+    },
+    "Lore_136": {
+        "id": "",
+        "player_inventory_add_component": [],
+        "popup_text_inventory": [],
+        "player_change_ru": [],
+        "fleet_add_ship": []
+    },
+    "Lore_137": {
+        "id": "",
+        "player_inventory_add_component": [],
+        "popup_text_inventory": [],
+        "player_change_ru": [],
+        "fleet_add_ship": []
+    },
+    "Lore_138": {
+        "id": "",
+        "player_inventory_add_component": [],
+        "popup_text_inventory": [],
+        "player_change_ru": [],
+        "fleet_add_ship": []
+    },
+    "Lore_139": {
+        "id": "",
+        "player_inventory_add_component": [],
+        "popup_text_inventory": [],
+        "player_change_ru": [],
+        "fleet_add_ship": []
+    },
+    "Lore_140": {
+        "id": "",
+        "player_inventory_add_component": [],
+        "popup_text_inventory": [],
+        "player_change_ru": [],
+        "fleet_add_ship": []
+    },
+    "Lore_141": {
+        "id": "",
+        "player_inventory_add_component": [],
+        "popup_text_inventory": [],
+        "player_change_ru": [],
+        "fleet_add_ship": []
+    },
+    "Lore_142": {
+        "id": "",
+        "player_inventory_add_component": [],
+        "popup_text_inventory": [],
+        "player_change_ru": [],
+        "fleet_add_ship": []
+    },
+    "Lore_143": {
+        "id": "",
+        "player_inventory_add_component": [],
+        "popup_text_inventory": [],
+        "player_change_ru": [],
+        "fleet_add_ship": []
+    },
+    "Lore_144": {
+        "id": "",
+        "player_inventory_add_component": [],
+        "popup_text_inventory": [],
+        "player_change_ru": [],
+        "fleet_add_ship": []
+    },
+    "Lore_145": {
+        "id": "",
+        "player_inventory_add_component": [],
+        "popup_text_inventory": [],
+        "player_change_ru": [],
+        "fleet_add_ship": []
+    },
+    "Lore_146": {
+        "id": "",
+        "player_inventory_add_component": [],
+        "popup_text_inventory": [],
+        "player_change_ru": [],
+        "fleet_add_ship": []
+    },
+    "Lore_147": {
+        "id": "",
+        "player_inventory_add_component": [],
+        "popup_text_inventory": [],
+        "player_change_ru": [],
+        "fleet_add_ship": []
+    },
+    "Lore_148": {
+        "id": "",
+        "player_inventory_add_component": [],
+        "popup_text_inventory": [],
+        "player_change_ru": [],
+        "fleet_add_ship": []
+    },
+    "Lore_149": {
+        "id": "",
+        "player_inventory_add_component": [],
+        "popup_text_inventory": [],
+        "player_change_ru": [],
+        "fleet_add_ship": []
+    },
+    "Lore_150": {
+        "id": "",
+        "player_inventory_add_component": [],
+        "popup_text_inventory": [],
+        "player_change_ru": [],
+        "fleet_add_ship": []
+    },
+    "Lore_151": {
+        "id": "",
+        "player_inventory_add_component": [],
+        "popup_text_inventory": [],
+        "player_change_ru": [],
+        "fleet_add_ship": []
+    },
+    "Lore_152": {
+        "id": "",
+        "player_inventory_add_component": [],
+        "popup_text_inventory": [],
+        "player_change_ru": [],
+        "fleet_add_ship": []
+    },
+    "Lore_153": {
+        "id": "",
+        "player_inventory_add_component": [],
+        "popup_text_inventory": [],
+        "player_change_ru": [],
+        "fleet_add_ship": []
+    },
+    "Lore_154": {
+        "id": "",
+        "player_inventory_add_component": [],
+        "popup_text_inventory": [],
+        "player_change_ru": [],
+        "fleet_add_ship": []
+    },
+    "Lore_157": {
+        "id": "",
+        "player_inventory_add_component": [],
+        "popup_text_inventory": [
+            "2000 RU"
+        ],
+        "player_change_ru": [
+            "2000"
+        ],
+        "fleet_add_ship": []
+    },
+    "Lore_158": {
+        "id": "",
+        "player_inventory_add_component": [],
+        "popup_text_inventory": [
+            "4000 RU"
+        ],
+        "player_change_ru": [
+            "4000"
+        ],
+        "fleet_add_ship": []
+    },
+    "Lore_159": {
+        "id": "",
+        "player_inventory_add_component": [],
+        "popup_text_inventory": [
+            "3000 RU"
+        ],
+        "player_change_ru": [
+            "3000"
+        ],
+        "fleet_add_ship": []
+    },
+    "Lore_160": {
+        "id": "",
+        "player_inventory_add_component": [
+            "HyperdriveAccelerator"
+        ],
+        "popup_text_inventory": [
+            "Hyperdrive Accelerator"
+        ],
+        "player_change_ru": [],
+        "fleet_add_ship": []
+    },
+    "Lore_161": {
+        "id": "",
+        "player_inventory_add_component": [
+            "HyperdriveAccelerator2"
+        ],
+        "popup_text_inventory": [
+            "Hyperdrive Accelerator Mark II"
+        ],
+        "player_change_ru": [],
+        "fleet_add_ship": []
+    },
+    "Lore_162": {
+        "id": "",
+        "player_inventory_add_component": [],
+        "popup_text_inventory": [
+            "500 RU"
+        ],
+        "player_change_ru": [
+            "500"
+        ],
+        "fleet_add_ship": []
+    },
+    "Lore_163": {
+        "id": "",
+        "player_inventory_add_component": [],
+        "popup_text_inventory": [],
+        "player_change_ru": [],
+        "fleet_add_ship": []
+    },
+    "Lore_164": {
+        "id": "",
+        "player_inventory_add_component": [
+            "FuelStorage"
+        ],
+        "popup_text_inventory": [
+            "Small Fuel Container"
+        ],
+        "player_change_ru": [],
+        "fleet_add_ship": []
+    },
+    "Lore_165": {
+        "id": "",
+        "player_inventory_add_component": [],
+        "popup_text_inventory": [
+            "1000 RU"
+        ],
+        "player_change_ru": [
+            "1000"
+        ],
+        "fleet_add_ship": []
+    },
+    "Lore_166": {
+        "id": "",
+        "player_inventory_add_component": [],
+        "popup_text_inventory": [],
+        "player_change_ru": [],
+        "fleet_add_ship": []
+    },
+    "Lore_167": {
+        "id": "",
+        "player_inventory_add_component": [
+            "Sensors1"
+        ],
+        "popup_text_inventory": [
+            "Futoriz Prescience Sensor"
+        ],
+        "player_change_ru": [],
+        "fleet_add_ship": []
+    },
+    "Lore_168": {
+        "id": "",
+        "player_inventory_add_component": [],
+        "popup_text_inventory": [
+            "500 RU"
+        ],
+        "player_change_ru": [
+            "500"
+        ],
+        "fleet_add_ship": []
+    },
+    "Lore_169": {
+        "id": "",
+        "player_inventory_add_component": [
+            "Cargo"
+        ],
+        "popup_text_inventory": [
+            "Cargo Pod"
+        ],
+        "player_change_ru": [],
+        "fleet_add_ship": []
+    },
+    "Lore_170": {
+        "id": "",
+        "player_inventory_add_component": [],
+        "popup_text_inventory": [],
+        "player_change_ru": [],
+        "fleet_add_ship": []
+    },
+    "Lore_171": {
+        "id": "",
+        "player_inventory_add_component": [],
+        "popup_text_inventory": [],
+        "player_change_ru": [],
+        "fleet_add_ship": []
+    },
+    "Lore_172": {
+        "id": "",
+        "player_inventory_add_component": [
+            "CharbroiledFocal"
+        ],
+        "popup_text_inventory": [
+            "Focal Laser"
+        ],
+        "player_change_ru": [],
+        "fleet_add_ship": []
+    },
+    "Lore_173": {
+        "id": "",
+        "player_inventory_add_component": [],
+        "popup_text_inventory": [],
+        "player_change_ru": [],
+        "fleet_add_ship": []
+    },
+    "Lore_174": {
+        "id": "",
+        "player_inventory_add_component": [],
+        "popup_text_inventory": [
+            "2500 Gold"
+        ],
+        "player_change_ru": [],
+        "fleet_add_ship": []
+    },
+    "Lore_175": {
+        "id": "",
+        "player_inventory_add_component": [
+            "FuelTank"
+        ],
+        "popup_text_inventory": [
+            "Portable Fuel Pod"
+        ],
+        "player_change_ru": [],
+        "fleet_add_ship": []
+    },
+    "Lore_176": {
+        "id": "",
+        "player_inventory_add_component": [],
+        "popup_text_inventory": [
+            "6000 RU"
+        ],
+        "player_change_ru": [
+            "6000"
+        ],
+        "fleet_add_ship": []
+    },
+    "Lore_177": {
+        "id": "",
+        "player_inventory_add_component": [
+            "AdvCrewQuarters"
+        ],
+        "popup_text_inventory": [
+            "Advanced Crew Quarters"
+        ],
+        "player_change_ru": [],
+        "fleet_add_ship": []
+    },
+    "Lore_178": {
+        "id": "",
+        "player_inventory_add_component": [],
+        "popup_text_inventory": [
+            "4000 RU"
+        ],
+        "player_change_ru": [
+            "4000"
+        ],
+        "fleet_add_ship": []
+    },
+    "Lore_179": {
+        "id": "",
+        "player_inventory_add_component": [
+            "CrewQuarters"
+        ],
+        "popup_text_inventory": [
+            "Crew Quarters"
+        ],
+        "player_change_ru": [],
+        "fleet_add_ship": []
+    },
+    "Lore_180": {
+        "id": "",
+        "player_inventory_add_component": [],
+        "popup_text_inventory": [
+            "8000 RU"
+        ],
+        "player_change_ru": [
+            "8000"
+        ],
+        "fleet_add_ship": []
+    },
+    "Lore_181": {
+        "id": "",
+        "player_inventory_add_component": [],
+        "popup_text_inventory": [
+            "2000 RU"
+        ],
+        "player_change_ru": [
+            "2000"
+        ],
+        "fleet_add_ship": []
+    },
+    "Lore_182": {
+        "id": "",
+        "player_inventory_add_component": [
+            "LandAuto"
+        ],
+        "popup_text_inventory": [
+            "Trajectory Correction Computer"
+        ],
+        "player_change_ru": [],
+        "fleet_add_ship": []
+    },
+    "Lore_183": {
+        "id": "",
+        "player_inventory_add_component": [
+            "SpawnHarmonyTurret"
+        ],
+        "popup_text_inventory": [
+            "Flame Turret"
+        ],
+        "player_change_ru": [],
+        "fleet_add_ship": []
+    },
+    "Lore_184": {
+        "id": "",
+        "player_inventory_add_component": [
+            "LanderHeatShield3"
+        ],
+        "popup_text_inventory": [
+            "Heat Shield Mark III"
+        ],
+        "player_change_ru": [],
+        "fleet_add_ship": []
+    },
+    "Lore_185": {
+        "id": "",
+        "player_inventory_add_component": [],
+        "popup_text_inventory": [
+            "1000 RU"
+        ],
+        "player_change_ru": [
+            "1000"
+        ],
+        "fleet_add_ship": []
+    },
+    "Lore_186": {
+        "id": "",
+        "player_inventory_add_component": [
+            "LanderAirFilter1"
+        ],
+        "popup_text_inventory": [
+            "Corrosion Protection"
+        ],
+        "player_change_ru": [],
+        "fleet_add_ship": []
+    },
+    "Lore_187": {
+        "id": "",
+        "player_inventory_add_component": [],
+        "popup_text_inventory": [
+            "1000 RU"
+        ],
+        "player_change_ru": [
+            "1000"
+        ],
+        "fleet_add_ship": []
+    },
+    "Lore_188": {
+        "id": "",
+        "player_inventory_add_component": [
+            "LanderCrew1"
+        ],
+        "popup_text_inventory": [
+            "Lander Crew Pod"
+        ],
+        "player_change_ru": [],
+        "fleet_add_ship": []
+    },
+    "Lore_189": {
+        "id": "",
+        "player_inventory_add_component": [
+            "LanderArmor2"
+        ],
+        "popup_text_inventory": [
+            "Lander Armor Mark II"
+        ],
+        "player_change_ru": [],
+        "fleet_add_ship": []
+    },
+    "Lore_190": {
+        "id": "",
+        "player_inventory_add_component": [
+            "LanderHeatShield1"
+        ],
+        "popup_text_inventory": [
+            "Heat Shield"
+        ],
+        "player_change_ru": [],
+        "fleet_add_ship": []
+    },
+    "Lore_191": {
+        "id": "",
+        "player_inventory_add_component": [
+            "LanderAirFilter2"
+        ],
+        "popup_text_inventory": [
+            "Corrosion Protection Mark II"
+        ],
+        "player_change_ru": [],
+        "fleet_add_ship": []
+    },
+    "Lore_192": {
+        "id": "",
+        "player_inventory_add_component": [],
+        "popup_text_inventory": [],
+        "player_change_ru": [],
+        "fleet_add_ship": []
+    },
+    "Lore_193": {
+        "id": "",
+        "player_inventory_add_component": [
+            "LanderAirFilter0"
+        ],
+        "popup_text_inventory": [
+            "Economy Brand Toxic Filter"
+        ],
+        "player_change_ru": [],
+        "fleet_add_ship": []
+    },
+    "Lore_194": {
+        "id": "",
+        "player_inventory_add_component": [],
+        "popup_text_inventory": [
+            "5000 RU"
+        ],
+        "player_change_ru": [
+            "5000"
+        ],
+        "fleet_add_ship": []
+    },
+    "Lore_195": {
+        "id": "",
+        "player_inventory_add_component": [
+            "LanderJump1"
+        ],
+        "popup_text_inventory": [
+            "Lander Anti-Gravity Thrusters"
+        ],
+        "player_change_ru": [],
+        "fleet_add_ship": []
+    },
+    "Lore_196": {
+        "id": "",
+        "player_inventory_add_component": [
+            "LanderWindRes2"
+        ],
+        "popup_text_inventory": [
+            "Atmospheric Stabilizers Mark II"
+        ],
+        "player_change_ru": [],
+        "fleet_add_ship": []
+    },
+    "Lore_197": {
+        "id": "",
+        "player_inventory_add_component": [],
+        "popup_text_inventory": [
+            "5000 RU"
+        ],
+        "player_change_ru": [
+            "5000"
+        ],
+        "fleet_add_ship": []
+    },
+    "Lore_198": {
+        "id": "",
+        "player_inventory_add_component": [
+            "LanderWindRes2"
+        ],
+        "popup_text_inventory": [
+            "Atmospheric Stabilizers Mark II"
+        ],
+        "player_change_ru": [],
+        "fleet_add_ship": []
+    },
+    "Lore_199": {
+        "id": "",
+        "player_inventory_add_component": [],
+        "popup_text_inventory": [],
+        "player_change_ru": [],
+        "fleet_add_ship": []
+    },
+    "Lore_200": {
+        "id": "",
+        "player_inventory_add_component": [
+            "LanderAirFilter1"
+        ],
+        "popup_text_inventory": [
+            "Corrosion Protection"
+        ],
+        "player_change_ru": [],
+        "fleet_add_ship": []
+    },
+    "Lore_201": {
+        "id": "",
+        "player_inventory_add_component": [
+            "Cargo"
+        ],
+        "popup_text_inventory": [
+            "Cargo Pod"
+        ],
+        "player_change_ru": [],
+        "fleet_add_ship": []
+    },
+    "Lore_202": {
+        "id": "",
+        "player_inventory_add_component": [
+            "LanderEngineUpgrade1"
+        ],
+        "popup_text_inventory": [
+            "Lander Super-Charger"
+        ],
+        "player_change_ru": [],
+        "fleet_add_ship": []
+    },
+    "Lore_203": {
+        "id": "",
+        "player_inventory_add_component": [],
+        "popup_text_inventory": [],
+        "player_change_ru": [],
+        "fleet_add_ship": []
+    },
+    "Lore_204": {
+        "id": "",
+        "player_inventory_add_component": [
+            "LanderGun2"
+        ],
+        "popup_text_inventory": [
+            "Lander Stun Shot"
+        ],
+        "player_change_ru": [],
+        "fleet_add_ship": []
+    },
+    "Lore_205": {
+        "id": "",
+        "player_inventory_add_component": [
+            "CannonForward"
+        ],
+        "popup_text_inventory": [
+            "Forward Cannons"
+        ],
+        "player_change_ru": [],
+        "fleet_add_ship": []
+    },
+    "Lore_206": {
+        "id": "",
+        "player_inventory_add_component": [
+            "LanderWeaponAmplifier"
+        ],
+        "popup_text_inventory": [
+            "Lander Damage Amplifier"
+        ],
+        "player_change_ru": [],
+        "fleet_add_ship": []
+    },
+    "Lore_207": {
+        "id": "",
+        "player_inventory_add_component": [
+            "LanderAirFilter2"
+        ],
+        "popup_text_inventory": [
+            "Corrosion Protection Mark II"
+        ],
+        "player_change_ru": [],
+        "fleet_add_ship": []
+    },
+    "Lore_208": {
+        "id": "",
+        "player_inventory_add_component": [],
+        "popup_text_inventory": [
+            "2000 RU"
+        ],
+        "player_change_ru": [
+            "2000"
+        ],
+        "fleet_add_ship": []
+    },
+    "Lore_209": {
+        "id": "",
+        "player_inventory_add_component": [
+            "HyperDrive2"
+        ],
+        "popup_text_inventory": [
+            "Not So Cuddle Drive"
+        ],
+        "player_change_ru": [],
+        "fleet_add_ship": []
+    },
+    "Lore_210": {
+        "id": "",
+        "player_inventory_add_component": [],
+        "popup_text_inventory": [
+            "500 RU"
+        ],
+        "player_change_ru": [
+            "500"
+        ],
+        "fleet_add_ship": []
+    },
+    "Lore_211": {
+        "id": "",
+        "player_inventory_add_component": [],
+        "popup_text_inventory": [],
+        "player_change_ru": [],
+        "fleet_add_ship": []
+    },
+    "Lore_212": {
+        "id": "",
+        "player_inventory_add_component": [
+            "Engine Size 3"
+        ],
+        "popup_text_inventory": [
+            "Subspace Drive"
+        ],
+        "player_change_ru": [],
+        "fleet_add_ship": []
+    },
+    "Lore_213": {
+        "id": "",
+        "player_inventory_add_component": [],
+        "popup_text_inventory": [
+            "3000 RU"
+        ],
+        "player_change_ru": [
+            "3000"
+        ],
+        "fleet_add_ship": []
+    },
+    "Lore_214": {
+        "id": "",
+        "player_inventory_add_component": [
+            "SuperiorThruster"
+        ],
+        "popup_text_inventory": [
+            "Superior Thruster"
+        ],
+        "player_change_ru": [],
+        "fleet_add_ship": []
+    },
+    "Lore_215": {
+        "id": "",
+        "player_inventory_add_component": [
+            "Cargo"
+        ],
+        "popup_text_inventory": [
+            "Cargo Pod"
+        ],
+        "player_change_ru": [],
+        "fleet_add_ship": []
+    },
+    "Lore_216": {
+        "id": "",
+        "player_inventory_add_component": [],
+        "popup_text_inventory": [
+            "1000 RU"
+        ],
+        "player_change_ru": [
+            "1000"
+        ],
+        "fleet_add_ship": []
+    },
+    "Lore_217": {
+        "id": "",
+        "player_inventory_add_component": [],
+        "popup_text_inventory": [
+            "500 RU"
+        ],
+        "player_change_ru": [
+            "500"
+        ],
+        "fleet_add_ship": []
+    },
+    "Lore_218": {
+        "id": "",
+        "player_inventory_add_component": [
+            "PhasorBlue"
+        ],
+        "popup_text_inventory": [
+            "Phasor"
+        ],
+        "player_change_ru": [],
+        "fleet_add_ship": []
+    },
+    "Lore_219": {
+        "id": "",
+        "player_inventory_add_component": [],
+        "popup_text_inventory": [
+            "3000 RU"
+        ],
+        "player_change_ru": [
+            "3000"
+        ],
+        "fleet_add_ship": []
+    },
+    "Lore_220": {
+        "id": "",
+        "player_inventory_add_component": [
+            "Pulsar"
+        ],
+        "popup_text_inventory": [
+            "Pulsar"
+        ],
+        "player_change_ru": [],
+        "fleet_add_ship": []
+    },
+    "Lore_221": {
+        "id": "",
+        "player_inventory_add_component": [],
+        "popup_text_inventory": [
+            "6000 RU"
+        ],
+        "player_change_ru": [
+            "6000"
+        ],
+        "fleet_add_ship": []
+    },
+    "Lore_222": {
+        "id": "",
+        "player_inventory_add_component": [
+            "BatteryCharger"
+        ],
+        "popup_text_inventory": [
+            "Battery Charger"
+        ],
+        "player_change_ru": [],
+        "fleet_add_ship": []
+    },
+    "Lore_223": {
+        "id": "",
+        "player_inventory_add_component": [
+            "FleetWeaponAmplifier2"
+        ],
+        "popup_text_inventory": [
+            "Weapon Amplifier Mark II"
+        ],
+        "player_change_ru": [],
+        "fleet_add_ship": []
+    },
+    "Lore_224": {
+        "id": "",
+        "player_inventory_add_component": [],
+        "popup_text_inventory": [],
+        "player_change_ru": [],
+        "fleet_add_ship": []
+    },
+    "Lore_225": {
+        "id": "",
+        "player_inventory_add_component": [],
+        "popup_text_inventory": [],
+        "player_change_ru": [],
+        "fleet_add_ship": []
+    },
+    "Lore_226": {
+        "id": "",
+        "player_inventory_add_component": [
+            "LanderWindRes1"
+        ],
+        "popup_text_inventory": [
+            "Atmospheric Stabilizers"
+        ],
+        "player_change_ru": [],
+        "fleet_add_ship": []
+    },
+    "Lore_227": {
+        "id": "",
+        "player_inventory_add_component": [],
+        "popup_text_inventory": [
+            "2000 RU"
+        ],
+        "player_change_ru": [
+            "2000"
+        ],
+        "fleet_add_ship": []
+    },
+    "Lore_228": {
+        "id": "",
+        "player_inventory_add_component": [
+            "RearMissile"
+        ],
+        "popup_text_inventory": [
+            "Rear Missile"
+        ],
+        "player_change_ru": [],
+        "fleet_add_ship": []
+    },
+    "Lore_229": {
+        "id": "",
+        "player_inventory_add_component": [
+            "TrackingPlasma"
+        ],
+        "popup_text_inventory": [
+            "Tracking Plasma"
+        ],
+        "player_change_ru": [],
+        "fleet_add_ship": []
+    },
+    "Lore_230": {
+        "id": "",
+        "player_inventory_add_component": [],
+        "popup_text_inventory": [],
+        "player_change_ru": [],
+        "fleet_add_ship": []
+    },
+    "Lore_231": {
+        "id": "",
+        "player_inventory_add_component": [
+            "LanderArmor2"
+        ],
+        "popup_text_inventory": [
+            "Lander Armor Mark II"
+        ],
+        "player_change_ru": [],
+        "fleet_add_ship": []
+    },
+    "Lore_232": {
+        "id": "",
+        "player_inventory_add_component": [],
+        "popup_text_inventory": [],
+        "player_change_ru": [],
+        "fleet_add_ship": []
+    },
+    "Lore_233": {
+        "id": "",
+        "player_inventory_add_component": [
+            "Repulsor"
+        ],
+        "popup_text_inventory": [
+            "Repulsor"
+        ],
+        "player_change_ru": [],
+        "fleet_add_ship": []
+    },
+    "Lore_234": {
+        "id": "",
+        "player_inventory_add_component": [],
+        "popup_text_inventory": [
+            "3000 RU"
+        ],
+        "player_change_ru": [
+            "3000"
+        ],
+        "fleet_add_ship": []
+    },
+    "Lore_235": {
+        "id": "",
+        "player_inventory_add_component": [],
+        "popup_text_inventory": [],
+        "player_change_ru": [],
+        "fleet_add_ship": []
+    },
+    "Lore_236": {
+        "id": "",
+        "player_inventory_add_component": [
+            "Salvage"
+        ],
+        "popup_text_inventory": [
+            "Salvage Weapon"
+        ],
+        "player_change_ru": [],
+        "fleet_add_ship": []
+    },
+    "Lore_237": {
+        "id": "",
+        "player_inventory_add_component": [
+            "SpawnHarmonyTurret"
+        ],
+        "popup_text_inventory": [
+            "Flame Turret"
+        ],
+        "player_change_ru": [],
+        "fleet_add_ship": []
+    },
+    "Lore_238": {
+        "id": "",
+        "player_inventory_add_component": [
+            "TractorBeam"
+        ],
+        "popup_text_inventory": [
+            "Tractor Beam"
+        ],
+        "player_change_ru": [],
+        "fleet_add_ship": []
+    },
+    "Lore_239": {
+        "id": "",
+        "player_inventory_add_component": [
+            "FleetWeaponAmplifier1"
+        ],
+        "popup_text_inventory": [
+            "Fleet Weapon Amplifier"
+        ],
+        "player_change_ru": [],
+        "fleet_add_ship": []
+    },
+    "Lore_240": {
+        "id": "",
+        "player_inventory_add_component": [],
+        "popup_text_inventory": [
+            "4000 RU"
+        ],
+        "player_change_ru": [
+            "4000"
+        ],
+        "fleet_add_ship": []
+    },
+    "Lore_241": {
+        "id": "",
+        "player_inventory_add_component": [
+            "LanderCollector1"
+        ],
+        "popup_text_inventory": [
+            "Enhanced Collector"
+        ],
+        "player_change_ru": [],
+        "fleet_add_ship": []
+    },
+    "Lore_242": {
+        "id": "",
+        "player_inventory_add_component": [
+            "FlameThrower"
+        ],
+        "popup_text_inventory": [
+            "Flamethrower"
+        ],
+        "player_change_ru": [],
+        "fleet_add_ship": []
+    },
+    "Lore_243": {
+        "id": "",
+        "player_inventory_add_component": [],
+        "popup_text_inventory": [
+            "5000 RU"
+        ],
+        "player_change_ru": [
+            "5000"
+        ],
+        "fleet_add_ship": []
+    },
+    "Lore_244": {
+        "id": "",
+        "player_inventory_add_component": [],
+        "popup_text_inventory": [
+            "5000 RU"
+        ],
+        "player_change_ru": [
+            "5000"
+        ],
+        "fleet_add_ship": []
+    },
+    "Lore_245": {
+        "id": "",
+        "player_inventory_add_component": [],
+        "popup_text_inventory": [
+            "2000 RU"
+        ],
+        "player_change_ru": [
+            "2000"
+        ],
+        "fleet_add_ship": []
+    },
+    "Lore_246": {
+        "id": "",
+        "player_inventory_add_component": [
+            "HomingNukeFlank"
+        ],
+        "popup_text_inventory": [
+            "Flanking Missile"
+        ],
+        "player_change_ru": [],
+        "fleet_add_ship": []
+    },
+    "Lore_247": {
+        "id": "",
+        "player_inventory_add_component": [
+            "AdvancedCargo"
+        ],
+        "popup_text_inventory": [
+            "Advanced Cargo Pod"
+        ],
+        "player_change_ru": [],
+        "fleet_add_ship": []
+    },
+    "Lore_248": {
+        "id": "",
+        "player_inventory_add_component": [
+            "LanderWindRes2"
+        ],
+        "popup_text_inventory": [
+            "Atmospheric Stabilizers Mark II"
+        ],
+        "player_change_ru": [],
+        "fleet_add_ship": []
+    },
+    "Lore_249": {
+        "id": "",
+        "player_inventory_add_component": [
+            "AxonDrive"
+        ],
+        "popup_text_inventory": [
+            "Axon Drive"
+        ],
+        "player_change_ru": [],
+        "fleet_add_ship": []
+    },
+    "Lore_250": {
+        "id": "",
+        "player_inventory_add_component": [
+            "LanderAirFilter2"
+        ],
+        "popup_text_inventory": [
+            "Corrosion Protection Mark II"
+        ],
+        "player_change_ru": [],
+        "fleet_add_ship": []
+    },
+    "Lore_251": {
+        "id": "",
+        "player_inventory_add_component": [],
+        "popup_text_inventory": [
+            "1000 RU"
+        ],
+        "player_change_ru": [
+            "1000"
+        ],
+        "fleet_add_ship": []
+    }
+}

@@ -1,0 +1,52 @@
+div .SolarList {
+    position: relative;
+    float:left;
+    width: 300px;
+    overflow: auto;
+    max-height: 89vh;
+}
+
+.SolarSearchItem:hover {
+    background-color: darkkhaki;
+    cursor: pointer; 
+}
+
+div .SolarSearchItem {
+    margin: 8px;
+    padding: 5px;
+    width: 94%;
+    float: left;
+    border-radius: 5px;
+    background-color: darkolivegreen;   
+}
+
+div .SelectedSystem {
+    background-color: darkorange;
+
+}
+
+
+div .SearchItemHeader {
+    display: block;
+    padding: 3px;
+}
+
+div .SearchItemDetails {
+    display: block;
+}
+
+div .DetailsRight {
+    margin-top: 4px;
+    border-right: 0px;
+    text-align: right;
+    vertical-align: middle;
+}
+
+
+
+
+.planetSvg {
+    padding-left: 5px;
+    height: 13px;
+    width: 20px;
+}

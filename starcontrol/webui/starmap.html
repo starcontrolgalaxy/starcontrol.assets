@@ -1,0 +1,10 @@
+{% extends "layout.html" %}
+{% block title %}
+STARMAP
+{% endblock %}
+{% block content %}
+STARMAP<br />
+<div class="starmap">
+    <script type="module" src="{{ url_for('static', filename='starmap.js')}}"></script>
+</div>
+{% endblock %}
